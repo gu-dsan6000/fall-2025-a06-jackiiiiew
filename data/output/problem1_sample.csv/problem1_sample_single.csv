@@ -1,0 +1,11 @@
+log_level,log_entry
+INFO,17/06/09 16:58:07 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 70551
+INFO,"17/02/01 20:12:30 INFO python.PythonRunner: Times: total = 127, boot = -41, init = 43, finish = 125"
+INFO,17/06/08 19:50:33 INFO executor.Executor: Finished task 3.0 in stage 5602.0 (TID 224126). 2135 bytes result sent to driver
+INFO,"17/02/01 23:56:59 INFO python.PythonRunner: Times: total = 58, boot = -35, init = 36, finish = 57"
+INFO,17/06/08 19:38:18 INFO storage.BlockManager: Found block rdd_6682_16 locally
+INFO,17/06/07 15:51:10 INFO mapred.SparkHadoopMapRedUtil: attempt_201706071551_0874_m_000029_34992: Committed
+INFO,"17/06/09 21:45:38 INFO python.PythonRunner: Times: total = 40, boot = -38, init = 78, finish = 0"
+INFO,"17/06/08 19:35:34 INFO spark.CacheManager: Partition rdd_6033_17 not found, computing it"
+INFO,17/06/09 17:47:37 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 34442
+INFO,17/06/08 17:56:43 INFO storage.BlockManager: Found block rdd_4031_23 locally
